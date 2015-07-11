@@ -1,4 +1,4 @@
-_NOT Finished_
+DEPRECATED
 
 # OmniFocus Weekly
 generate a weekly report and format as an html email.
